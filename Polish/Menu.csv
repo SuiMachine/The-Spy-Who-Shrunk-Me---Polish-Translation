@@ -1,0 +1,216 @@
+Key,Polish
+Menu.NewGame,Nowa gra
+Menu.LoadGame,Kontynuuj
+Menu.Chapters,Misje
+Menu.Codex,Dziennik
+Menu.Options,Opcje
+Menu.Credits,Autorzy
+Menu.ExitGame,Wyjdź z gry
+Menu.StartMission,Rozpocznij misję
+Menu.Loading,Wczytywanie...
+Menu.MissionReport,SPRAWOZDANIE Z MISJI
+Menu.Time,Czas
+Menu.Alarms,Alarmy
+Menu.Kills,Zabici
+Menu.Retries,Podejścia
+Menu.Ghost,Duch
+Menu.GhostDescription,Dobry szpieg nigdy nie zostaje wykryty.
+Menu.Pacifist,Pacyfista
+Menu.PacifistDescription,Dobry szpieg nigdy nie musi nikogo zabijać.
+Menu.BacktoMainMenu,Wróć do menu głównego
+Menu.RestartMission,Potwórz misję
+Menu.Continue,Kontynuuj
+Menu.Resume,Wróć do gry
+Menu.SpyScore,Twój ranking SpyScore<sup>tm</sup>
+Menu.ScoreFDescription,Recenzent gier
+Menu.ScoreCDescription,Można zrobić to lepiej
+Menu.ScoreBDescription,Dopuszczalny wynik
+Menu.ScoreADescription,Zgoda do dalszej służby
+Menu.ScoreSDescription,Smooth operator
+Menu.ScoreSSDescription,Smoothspy 
+Menu.ScoreSSSDescription,"Super smoothspy - udało Ci się, zuchu!"
+Menu.TrainSceneTop,Moscow Express - 1981
+Menu.TrainSceneBottom,Tory do Rosji
+Menu.TrainSceneDescription,"Jesteśmy u szczytu Zimnej Wojny. Zostałeś wysłany na misję do Moskwy. Chodzą plotki, że zbuntowany sowiecki generał Boris B. Bolscotchkovich planuje zamach na świecie.<br><br>Będąc na pokładzie Moscow Express, dowiedz się co tak naprawdę planuje generał."
+Menu.OfficeSceneTop,Biura Con-Nex - 1981
+Menu.OfficeSceneBottom,Wygłupy w biurze
+Menu.OfficeSceneDescription,"Audrey Smoothspy infiltruje biuro Moskiewskiego CON-NEX, by dowiedzieć się gdzie Generał Bolscotchkovich oraz Doktor Eierkopf ukrywają swój tajny projekt."
+Menu.OperationSceneTop,Skarbiec Con-Nex - 1981
+Menu.OperationSceneBottom,Operacja: Niemożliwe
+Menu.OperationSceneDescription,"Audrey Smoothspy znajduje drzwi tajnego skarbca, za którymi stawi czoła systemom bezpieczeństwa placówki, strzegącym jej ciemnych sekretów."
+Menu.LabsSceneTop,Laboratoria Con-Nex - 1981
+Menu.LabsSceneBottom,Umysł Szaleństwa
+Menu.LabsSceneDescription,"Doktor Ernst E. Eierkopf musi zostać pojmany i wysłany do DOWÓDZTWA, by powstrzymać plan generała. Zinfiltruj tajne laboratorium doktora, by go pojmać."
+Menu.ArchivesSceneTop,Sekretne Sowieckie Archiwa - 1981
+Menu.ArchivesSceneBottom,Beyond the Books
+Menu.ArchivesSceneDescription,"Audrey Smoothspy infiltruje sowieckie archiwa. Na miejscu musi ona znaleźć sowiecką rakietę do listów, w której może wysłać Eierkopfa. Głęboko pod biurem CON-NEX znajduje się jednak coś bardzo niepokojącego..."
+Menu.ArchivesBossSceneTop,Secret Soviet Archives - 1981
+Menu.ArchivesBossSceneBottom,Sztuczne Szaleństwo
+Menu.ArchivesBossSceneDescription,"Audrey Smoothspy musi unieszkodliwić COMMUNIBOTA 3000 - najnowszą wersję programu wykrywającego kapitalistów."
+Menu.LabsReduxSceneTop,LABORATORIA CON-NEX - 1981
+Menu.LabsReduxSceneBottom,"Umysł Szaleństwa, Na Nowo"
+Menu.LabsReduxSceneDescription,Coś strasznego wydarzyło się w laboratorium.
+Menu.GeneralFatResidenceSceneTop,Posiadłość Bolscotchkovicha - 1981
+Menu.GeneralFatResidenceSceneBottom,Ważna osoba
+Menu.GeneralFatResidenceSceneDescription,Audrey Smoothspy infiltruje bogaty bunkier i  pałac generała Borisa B. Bolscotchkovicha.
+Menu.LabsWarehouseSceneTop,Tajny Silos - 1981
+Menu.LabsWarehouseSceneBottom,Rakietowy dżokej
+Menu.LabsWarehouseSceneDescription,"Audrey Smoothspy przybyła na czas do tajnego silosa rakietowego. Teraz musi dostać się na czas do rakiety, zanim ta zniszczy Amerykę."
+Menu.RocketSceneTop,Przestrzeń Kosmiczna - 1981
+Menu.RocketSceneBottom,"Sajonara, Smoothspy!"
+Menu.RocketSceneDescription,"Zatrzymaj rakietę od środka, by ocalić świat."
+Menu.QuaternionSceneTop,Berlin - 1981
+Menu.QuaternionSceneBottom,Tożsamość Kwaterniony
+Menu.QuaternionSceneDescription,"Audrey Smoothspy infiltruje klub nocny w Murze Berlińskim, by eskortować hackera bezpiecznie ze Wschodnich Niemiec."
+Menu.HomeSceneTop,Wielka Brytania - 1981
+Menu.HomeSceneBottom,Rozgość się
+Menu.HomeSceneDescription,Audrey odpoczywa w jej prestiżowym domku w Wielkiej Brytanii.
+Menu.OptionsGameplay,Rozgrywka
+Menu.OptionsDisplay,Wyświetlanie
+Menu.OptionsGraphics,Grafika
+Menu.OptionsAudio,Dźwięk
+Menu.GameplaySensitivity,Czułość
+Menu.GameplayFOV,FOV (Pionowe)
+Menu.GameplayToggleCrouch,Przełączanie kucania
+Menu.GameplayInvertY,Odwróć oś Y
+Menu.On,Wł.
+Menu.Off,Wył.
+Menu.DisplayLanguage,Język
+Menu.DisplayResolution,Rozdzielczość
+Menu.DisplayMode,Tryb wyświetlania
+Menu.DisplayVSync,Synchronizacja pionowa
+Menu.GraphicsDetailLevel,Poziom szczegółów
+Menu.GraphicsVignette,Winietowanie
+Menu.GraphicsBloom,Bloom
+Menu.GraphicsSSAO,SSAO
+Menu.AudioMusic,Muzyka
+Menu.AudioSFX,Efekty
+Menu.AudioDialogue,Dialogi
+Menu.AudioBanter,BANTER
+Menu.PressAnyKey,Naciśnij dowolny klawisz
+Menu.Back,Wróć
+Menu.Apply,Zastosuj
+Menu.Defaults,Domyślne
+Menu.Collectibles,Znajdźki
+Menu.ChHomeTitle,AUDREY'S BUNGALOW - 1981
+Menu.ChHomeDesc,Rozgość się
+Menu.ChIntroDesc,A Crimson Menace
+Menu.Ch1TrainTitle,MOSCOW EXPRESS - 1981
+Menu.Ch1TrainDesc,Tory do Rosji
+Menu.Ch2OfficeTitle,BIURA CON-NEX - 1981
+Menu.Ch2OfficeDesc,Wygłupy w Biurze
+Menu.Ch2BOperationTitle,CON-NEX SECRET VAULT - 1981
+Menu.Ch2BOperationDesc,Operacja: Nieprawdopodobne
+Menu.Ch3LabsTitle,CON-NEX LABORATORIES - 1981
+Menu.Ch3LabsDesc,Umysł Szaleństwa
+Menu.Ch4ArchivesTitle,SECRET SOVIET ARCHIVES - 1981
+Menu.Ch4ArchivesDesc,Beyond the Books
+Menu.Ch5ArchivesBossTitle,SECRET SOVIET ARCHIVES - 1981
+Menu.Ch5ArchivesBossDesc,Sztuczne Szaleństwo
+Menu.Ch6LabsReduxTitle,CON-NEX LABORATORIES - 1981
+Menu.Ch6LabsReduxDesc,"Sztuczne Szaleństwo, Na Nowo"
+Menu.Ch7GeneralFatResidenceTitle,BUNKIER BOLSCOTCHKOVICHA - 1981
+Menu.Ch7GeneralFatResidenceDesc,Ważna Osoba
+Menu.Ch8LabsWarehouseTitle,TAJNY SILOS - 1981
+Menu.Ch8LabsWarehouseDesc,Rakietowy dżokej
+Menu.Ch9RocketTitle,PRZESTRZEŃ KOSMICZNA - 1981
+Menu.Ch9RocketDesc,"Sajonara, Smoothspy!"
+Menu.ChEndingGoodDesc,Utorowałeś dzisiaj świat
+Menu.ChEndingBadWashingtonDCDesc,Najgorszy szpieg kiedykolwiek
+Menu.ChEndingBadForssaDesc,Mniejsze zło
+Menu.ChEndingBadMoscowDesc,Weird Flex But Ok
+Menu.ChQuaternionIntroDesc,A Night to Remember
+Menu.Ch10QuaternionTitle,BERLIN - 1981
+Menu.Ch10QuaternionDesc,Tożsamość Kwaterniony
+Menu.ChQuaternionOutroDesc,Koniec
+Menu.Cinematic,PRZERYWNIK FILMOWY
+Menu.GamePaused,Gra zatrzymana
+Menu.LoadLastCheckpoint,Wczytaj ostatni punkt kontrolny
+Menu.RestartLevel,Powtórz etap
+Menu.ExitToMainMenu,Wyjdź do menu głównego
+Menu.YouGotCaught,Zostałeś złapany!
+Menu.OfficeTipHeader,PROTIP - PATROLUJĄCY WROGOWIE
+Menu.OfficeTip,"Biuro to przykrywka. Spodziewaj się uzbrojonych, gotowych na wszystko wrogów. Unikaj ochroniarzy i ich patroli, by zapobiec podniesieniu alarmu."
+Menu.OperationTipHeader,PROTIP - LASERY
+Menu.OperationTip,"Masz problemy z laserami? Wykorzystaj promień pomniejszający lub teleporter, by je ominąć."
+Menu.LabsTipHeader,PROTIP - PODEJMIJ DECYZJĘ
+Menu.LabsTip,"Jest wiele możliwych rezultatów dla misji. Decyzje, które podejmiesz, będą miały swoje konsekwencje."
+Menu.ArchivesTipHeader,PROTIP - NIESPODZIEWANY ODDZIAŁY
+Menu.ArchivesTip,Wykonywanie zadań zaowocować przybyciem dodatkowych oddziałów straży. Zachowaj czujność!
+Menu.MinibossTipHeader,PROTIP - MAGNETYZM
+Menu.MinibossTip,"Unikaj przyciągania uwagi i znajdź coś, co zniszczy komputery."
+Menu.LabsReduxTipHeader,PROTIP - PICK YOUR BATTLES
+Menu.LabsReduxTip,Unikanie wrogów potężniejszych od Ciebie może być dobrym pomysłem. Niemal zawsze istnieje droga pozwalająca ominąć niebezpieczeństwo.
+Menu.GeneralTipHeader,PROTIP - SLAVDA
+Menu.GeneralTip,"Mimo iż jazda nią daje ogromną frajdę, Slavda może przyciągać niechcianą uwagę. Zachowaj ostrożność, jeśli chcesz pozostać niezauważony."
+Menu.WarehouseTipHeader,PROTIP - CZAS SIĘ ZMYWAĆ
+Menu.WarehouseTip,Nie ma czasu na walkę. Dostań się do rakiety i uratuj świat.
+Menu.RocketTipHeader,PROTIP - BRAK CZASU
+Menu.RocketTip,"Czas nie jest po Twojej stronie. Znajdź sposób by rozbroić rakietę, lub przekierować ją zanim uzyska połączenie z satelitą i trafi w cel!"
+Menu.HomeTipHeader,PROTIPS - ZNAJDŹKI
+Menu.HomeTip,Podczas misji możesz znaleźć znajdźki. Posłużą one do wypełnienia Twojego domu fascynującymi przedmiotami!
+Menu.QuaternionTipHeader,PROTIP - STREFY WOLNE OD GADŻETÓW
+Menu.QuaternionTip,Nie rujnuj zabawy. Przyjdzie Ci korzystać z gadżetów w dalejszej części etapu.
+Menu.Difficulty,Poziom trudności
+Menu.ChooseDifficulty,Wybierz poziom trudności
+Menu.Casual,Luźny
+Menu.Normal,Normalny
+Menu.Superspy,Super-szpieg
+Menu.CasualDesc,"Gotowy by zagrać? Przygotuj kubek herbaty, zrelaksuj się na Luźnym poziomie trudności.<br><br>Wrogowie wykrywają Cię wolniej. Jest to dobry poziom trudności dla nowych graczy, graczy wykorzystujących VR oraz tych, którym głównie zależy na tym, by doświadczyć historii oraz komedii tej gry."
+Menu.NormalDesc,"Normalny - zalecane doświadczenie.<br><br>Wrogowie szybko Cię spostrzegają, więc nie daj się złapać. Jest to doskonała mieszanka pomiędzy opowiadaną historią i rozgrywką."
+Menu.SuperspyDesc,"Jeżeli grasz w dużą ilość FPSów i skradanek - spróbuj Super-szpiega.<br><br>Wrogowie będą wykrywać Cię szybciej. Jest to brutalny, ale satysfakcjonujący doświadczenie, które rzuca Ci wyzwanie i sprawia, że korzystasz, ze wszystkich dostępnych gadżetów."
+Menu.DifficultyTip,"Poziom trudności zawsze można zmienić w dowolnym momencie w menu Opcji."
+Menu.Alarm,Alarm!
+Menu.Hostile,Wrogo
+Menu.Searching,Poszukiwanie
+Menu.CollectibleFound,Znalazłeś znajdźkę!
+Menu.SpybaseAdd,Dodano do Twojej bazy spybase!
+Menu.Interact,Interakcja
+Menu.Pickup,Podnieś
+Menu.Equip,Podnieś
+Menu.Objectives,Zadania
+Menu.Close,ZAMKNIJ
+Menu.GameOver,Koniec gry
+Menu.ShrinkRay,Promień zmniejszający
+Menu.AirbagMine,Poduszka Powietrzna
+Menu.Banana,Banan
+Menu.Teleporter,Teleporter
+Menu.Stopwatch,Stoper
+Menu.Spytacles,Szpiegulary
+Menu.Ammo,Amunicja
+Menu.Cooldown,Opóźnienie
+Menu.NewLore,Odblokowane nowy wpis fabularny
+Menu.Skip,Pomiń
+Menu.BackToMenu,Wróć do menu
+Menu.StartChapter,Rozpocznij rozdział
+Menu.Countdown,Odliczanie
+Menu.Hold,Przytrzymaj
+Menu.Hold2,by zrestartować samochód
+Menu.Mines,Miny
+Menu.Bananas,Banany
+Menu.Stopwatches,Stopery
+Menu.Windowed,W oknie
+Menu.Fullscreen,Pełny ekran
+Menu.Borderless,W oknie (bez ramki)
+Menu.VeryLow,Bardzo niskie
+Menu.Low,Niskie
+Menu.Medium,Średnie
+Menu.High,Wysokie
+Menu.VeryHigh,Bardzo wysokie
+Menu.Ultra,Ultra
+Menu.TutorialButtonVR,Samouczek
+Menu.MissionsButtonVR,Misje
+Menu.OptionsButtonVR,Opcje
+Menu.VROptionsButtonVR,Opcje VR
+Menu.MovementSchemeVR,Typ poruszania
+Menu.MirrorMovementVR,Odwróć sterowanie poruszania
+Menu.DisplayCameraVR,Toggle Display Mirror Camera
+Menu.SwipeRotationAngleVR,Swipe Rotation Step/Angle
+Menu.SwipeRotationTimeVR,Swipe Rotation Time
+Menu.ToolbeltHeightVR,Wysokość paska narzędzi
+Menu.ToolbeltAreaVR,Obszar paska narzędzi
+Menu.ToolbeltDistanceVR,Odległość paska narzędzi
+Menu.HeightAdjustVR,Dostosowanie wysokości
+Menu.MoveSpeedVR,Szybkość poruszania
+Menu.MissionUnlockedTitle,Nowa misja została odblokowana!
+Menu.MissionUnlockedText,"Gratulacje! Udało Ci się ukończyć grę! Odblokowałeś dodatkową misję ""Tożsamość Kwaterniony"". By w nią zagrać, uruchom przerywnik filmowy ""A Night To Remember"" w menu głównym!"

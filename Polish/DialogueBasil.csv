@@ -1,0 +1,20 @@
+Key,Polish
+Dialogue.Basil_01_HelloAudrey,
+Dialogue.Basil_02_NeedToSmuggle,
+Dialogue.Basil_03_TechnicallyYes,
+Dialogue.Basil_04_TheresTwoSides,
+Dialogue.Basil_05_ToStartFindTheHacker,"Na początek, będziesz musiał znaleźć hackera. Powinien być gdzieś w klubie nocnym. Barman może być w stanie Ci pomóc."
+Dialogue.Basil_06_ThereIsNoConvenientWay,"Nie ma dogodnego punktu do przedostania się na drugą stronę, ale może będziemy w stanie improwizować. Części klubu nocnego rozdziela przenośnik taśmowy, który służy do dostarczania napoi na przeciwną stronę muru granicznego oraz z powrotem. Może mogłabyś wykorzystać promień zmniejszający, by przemycić hackera wewnątrz jednego z drinków?"
+Dialogue.Basil_06a_ThereIsNoConvenientWay,"Nie ma dogodnego punktu do przedostania się na drugą strony, ale może będziemy w stanie improwizować."
+Dialogue.Basil_06b_ThereIsNoConvenientWay,"Części klubu nocnego rozdziela przenośnik taśmowy, który służy do dostarczania napoi na przeciwną stronę muru granicznego oraz z powrotem."
+Dialogue.Basil_06c_ThereIsNoConvenientWay,"Może mogłabyś wykorzystać promień zmniejszający, by przemycić hackera wewnątrz jednego z drinków?"
+Dialogue.Basil_07_NowGrabAPint,Podnieś pintę piwa i wrzuć go do niego.
+Dialogue.Basil_08_YouveGotAboutTwoMinutes,"Masz jakieś 2 minuty zanim, nie będziemy w stanie nic dla niego zrobić. Prześlizgnij się z powrotem na drugą stronę, by uratować naszego człowieka."
+Dialogue.Basil_08a_YouveGotAboutTwoMinutes,"Masz jakieś 2 minuty zanim, nie będziemy w stanie nic dla niego zrobić."
+Dialogue.Basil_08b_YouveGotAboutTwoMinutes,"Prześlizgnij się z powrotem na drugą stronę, by uratować naszego człowieka."
+Dialogue.Basil_09_GreatTimeTo,"Wspaniale, czas się stąd wynosić. Znajdź wyjście."
+Dialogue.Basil_10_ThePlaceJustGotPutUnderLockdown,"To miejsce zostało właśnie odizolowane i wszystkie drogi z niego zostały zablokowane. Na szczęście, według moich informacji, parter jest połączony z starymi tunelami, w których może znajdować się wyjście. Udaj się tam!"
+Dialogue.Basil_10a_ThePlaceJustGotPutUnderLockdown,To miejsce zostało właśnie odizolowane i wszystkie drogi z niego zostały zablokowane.
+Dialogue.Basil_10b_ThePlaceJustGotPutUnderLockdown,"Na szczęście, według moich informacji, parter jest połączony z starymi tunelami, w których może znajdować się wyjście."
+Dialogue.Basil_10c_ThePlaceJustGotPutUnderLockdown,Tamtędy!
+Dialogue.Basil_11_WayAheadIsClosed,"Droga na przód jest zamknięta. Musisz znaleźć jakiś sposób, by ją otworzyć."

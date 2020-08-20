@@ -1,0 +1,38 @@
+Key,Polish
+Tutorial.Dismiss,Naciśnij <button_dismiss> by porzucić
+Tutorial.stealth_basics_title,Samouczek: Podstawy skradania
+Tutorial.stealth_basics_content,"Staraj się pozostać poza polem widzenia wrogów. Zaalarmowanie wrogowie pobiegną włączyć alarm lub zaczną atakować. <br><br>Wykorzystaj klawisz <button_crouch> by kucnąć. Wykorzystaj klawisze <button_lean_left> oraz <button_lean_right> by wychylać się zza rogów.<br><br> Naucz się ścieżek patrolów wrogów, by uniknąć wykrycia."
+Tutorial.shrinkray_maintitle,Promień zmniejszający
+Tutorial.shrinkray_shrinkenemies_title,Zmniejsz wrogów
+Tutorial.shrinkray_shrinkenemies_description,"Zmniejsz i podnieś wrogów. Rzuć nimi w ścianę lub wrzuć do niszczarki lub śmietnika."
+Tutorial.shrinkray_shrinkenemies_actiontext1,Zmniejsz wroga
+Tutorial.shrinkray_shrinkenemies_actiontext2,Podnieś zmniejszonego wroga
+Tutorial.shrinkray_shrinkyourself_title,Zmniejsz siebie samego
+Tutorial.shrinkray_shrinkyourself_description,"Gdy jesteś zmniejszony, jesteś też mniej widoczny. Wykorzystaj ten fakt by skradać się i uniknięcia szukających Cię wrogów."
+Tutorial.shrinkray_shrinkyourself_actiontext1,Zmniejsz siebie samego / Powiększ siebie samego
+Tutorial.shrinkray_creative_title,Bądź twórczy
+Tutorial.shrinkray_creative_description,"Wykorzystaj otoczenie jako zasłonę. Możesz również znaleźć ukryte przejścia dostępne tylko z wykorzystaniem Promienia Zmniejszającego. <br><br>Zanurkuj za kanapy i krzesła, by skradać się jak profesjonalista!"
+Tutorial.shrinkray_creative_description2,Będąc pomniejszony jesteś też mniej widoczny. Wykorzystaj ten fakt by skradać się i uniknięcia szukających Cię wrogów. Naciśnij <color=red>Prawy Klawisz Myszy</color> by siebie zmniejszyć.
+Tutorial.bananas_maintitle,Skórki od banana 
+Tutorial.bananas_slipandslide_title,"Sprawia, że wrogowie się przewracają!"
+Tutorial.bananas_description,"Rzuć skórkę od banana na drodze patrolu wroga! Jeżeli na nią natrafi, wróg poślizgnie się i przewróci. Wrogowie, którzy przewrócili się na skórce od banana pozostają na ziemi przez długi czas! Możesz też podnieś podłożoną skórkę od banana, jeżeli wróg się jeszcze o nią nie przewrócił."
+Tutorial.bananas_actiontext1,Rzuć skórkę od banana
+Tutorial.bananas_actiontext2,Podnieś skórkę od banana
+Tutorial.bananas_description2,"Rzuć skórkę od banana naciskając <color=red>Lewy Przycisk Myszy</color>. Jeżeli wróg na nią natrafi, poślizgnie się i przewróci. Wrogowie, którzy przewrócili się na skórce od banana pozostają na ziemi przez długi czas!"
+Tutorial.airbagmine_maintitle,Poduszka powietrzna
+Tutorial.airbagmine_enemiesfly_title,Poduszki powietrznej wysyłają wrogów w powietrze
+Tutorial.airbagmine_description,"Umieść poduszkę powietrzną na podłodze lub ścianie i pobliżu ścieżek patrolu wroga. Osoby, które znajdą się w obszarze eksplozji zostaną rozrzuceni i utracą przytomność."
+Tutorial.airbagmine_actiontext1,Umieść poduszkę powietrzną
+Tutorial.airbagmine_description2,"Przyczep poduszkę powietrzną do ściany naciskając <color=red>Lewy Przycisk Myszy</color>. Pamiętaj, by umieszczać poduszki wzdłuż ścieżek patrolowych wroga. Osoby, które znajdą się w obszarze eksplozji utracą przytomność!"
+Tutorial.teleport_maintitle,Teleporter
+Tutorial.teleport_reachheights_title,Osiągnij nowe szczyty wykorzystując teleporter!
+Tutorial.teleport_description,"Wykorzystaj Teleporter by teleportować się na odległość. Możesz dostać się nim na lampy, ciężko dostępnych przejść i wielu innych miejsc!"
+Tutorial.teleport_actiontext1,Teleport
+Tutorial.spytacles_maintitle,Szpiegulary
+Tutorial.spytacles_seethruwalls_title,Zobacz wrogów przez ściany!
+Tutorial.spytacles_description,"Wykorzystaj Szpiegulary, by szpiegować znajdujących się w pobliżu ludzi! Szpiegulary podświetlają za Ciebie wrogów, umożliwiając łatwe przekradnięcie się w ich pobliżu."
+Tutorial.spytacles_actiontext1,Użyj
+Tutorial.stopwatch_maintitle,Stoper
+Tutorial.stopwatch_freezetime_title,Zatrzymaj czas i przekradnij się obok wrogów!
+Tutorial.stopwatch_description,"Zatrzymaj czas wykorzystując Stoper i przekradnij obok wrogów. Inne gadżety nie mogą być wykorzystywane, gdy zatrzymany jest czas!"
+Tutorial.stopwatch_actiontext1,Zatrzymaj czas

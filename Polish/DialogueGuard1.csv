@@ -1,0 +1,45 @@
+Key,Polish
+Dialogue.guard_alarm_alarm2x,alarm2x
+Dialogue.guard_alarm_goingfor,goingfor
+Dialogue.guard_alarm_iseespy,iseespy
+Dialogue.guard_alarm_mustwarn,mustwarn
+Dialogue.guard_alarm_panicbutton,panicbutton
+Dialogue.guard_alarm_whereisbutton,whereisbutton
+Dialogue.guard_attack_die,Giń!
+Dialogue.guard_attack_diespy,Giń szpiegu!
+Dialogue.guard_attack_diespy_2_timeto,"Czas umierać, szpiegu!"
+Dialogue.guard_attack_igotyou,Mam Cię!
+Dialogue.guard_attack_motherland,motherland
+Dialogue.guard_attack_sovietmother,sovietmother
+Dialogue.guard_attack_sovietunion,sovietunion
+Dialogue.guard_die_argh,AAaaaaa!
+Dialogue.guard_die_blya,blya
+Dialogue.guard_die_blya_2,blya 2
+Dialogue.guard_die_blya_3,blya 3
+Dialogue.guard_die_oof,oof
+Dialogue.guard_die_shredder,shredder
+Dialogue.guard_die_urgh,urgh
+Dialogue.guard_die_urgh_2,urgh 2
+Dialogue.guard_idle_always,idle_1
+Dialogue.guard_idle_armwrestle,idle_2
+Dialogue.guard_idle_blinis,idle_3
+Dialogue.guard_idle_borch,idle_4
+Dialogue.guard_idle_coupons,idle_5
+Dialogue.guard_idle_da,idle_6
+Dialogue.guard_idle_davai,idle_7
+Dialogue.guard_idle_donttalk,idle_8
+Dialogue.guard_idle_drink,idle_9
+Dialogue.guard_idle_family,idle_10
+Dialogue.guard_idle_funguy,idle_11
+Dialogue.guard_idle_maybe,idle_12
+Dialogue.guard_idle_nikolai,idle_13
+Dialogue.guard_idle_verygood,idle_14
+Dialogue.guard_idle_weather,idle_15
+Dialogue.guard_idle_whytalking,idle_16
+Dialogue.guard_search_flashwife,search_1
+Dialogue.guard_search_flashwife_2_tatyana,search_2
+Dialogue.guard_search_whereareyouuu,search_3
+Dialogue.guard_search_whereisshe,search_4
+Dialogue.guard_search_whereshego,search_5
+Dialogue.guard_search_willfindu,search_6
+Dialogue.guard_item_whatisthis,what_is_this

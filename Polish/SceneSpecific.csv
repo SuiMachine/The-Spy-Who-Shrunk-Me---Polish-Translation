@@ -1,0 +1,66 @@
+Key,Polish
+SceneSpecific.PC1,Klawisze
+SceneSpecific.PC2,"Q, E = Wychyl się zza rogu"
+SceneSpecific.PC3,Menu
+SceneSpecific.PC4,Zmień ekwipunek
+SceneSpecific.PC5,"W,A,S,D = Poruszanie się"
+SceneSpecific.PC6,"C, Ctrl = Kucanie"
+SceneSpecific.PC7,Shift = Bieg
+SceneSpecific.PC8,F = Użyj / Podnieś obiekt
+SceneSpecific.PC9,G = Pomiń dialog
+SceneSpecific.PC10,Space = Skocz
+SceneSpecific.PC11,Alternatywny Strzał
+SceneSpecific.PC12,Strzał
+SceneSpecific.Xbox1,Sterowanie
+SceneSpecific.Xbox2,L1 = Wychył w lewo
+SceneSpecific.Xbox3,R1 = Wychył w prawo
+SceneSpecific.Xbox4,Menu
+SceneSpecific.Xbox5,Zmień ekwipunek
+SceneSpecific.Xbox6,Poruszanie się
+SceneSpecific.Xbox7,Kucanie
+SceneSpecific.Xbox8,L3 = Bieg
+SceneSpecific.Xbox9,Użyj / Podnieś obiekt
+SceneSpecific.Xbox10,Rozglądanie
+SceneSpecific.Xbox11,R3 = Pomiń dialog
+SceneSpecific.Xbox12,Skok
+SceneSpecific.Xbox13,L2 = Alternatywny Strzał
+SceneSpecific.Xbox14,R2 = Strzał
+SceneSpecific.Playstation1,Sterowanie
+SceneSpecific.Playstation2,L1 = Wychył w lewo
+SceneSpecific.Playstation3,R1 = Wychył w prawo
+SceneSpecific.Playstation4,Menu
+SceneSpecific.Playstation5,Zmień ekwipunek
+SceneSpecific.Playstation6,Poruszanie się
+SceneSpecific.Playstation7,Kucanie
+SceneSpecific.Playstation8,L3 = Bieg
+SceneSpecific.Playstation9,Użyj / Podnieś obiekt
+SceneSpecific.Playstation10,Rozglądanie
+SceneSpecific.Playstation11,R3 = Pomiń dialog
+SceneSpecific.Playstation12,Skok
+SceneSpecific.Playstation13,L2 = Alternatywny Strzał
+SceneSpecific.Playstation14,R2 = Strzał
+SceneSpecific.Nintendo1,Sterowanie
+SceneSpecific.Nintendo2,L1 = Wychył w lewo
+SceneSpecific.Nintendo3,R1 = Wychył w prawo
+SceneSpecific.Nintendo4,Menu
+SceneSpecific.Nintendo5,Zmień ekwipunek
+SceneSpecific.Nintendo6,Poruszanie się
+SceneSpecific.Nintendo7,Kucanie
+SceneSpecific.Nintendo8,L3 = Bieg
+SceneSpecific.Nintendo9,Użyj / Podnieś obiekt
+SceneSpecific.Nintendo10,Rozglądanie
+SceneSpecific.Nintendo11,R3 = Pomiń dialog
+SceneSpecific.Nintendo12,Skok
+SceneSpecific.Nintendo13,L2 = Alternatywny Strzał
+SceneSpecific.Nintendo14,R2 = Strzał
+SceneSpecific.YourSpyScore,Twój ranking spyscore<sup>TM</sup>
+SceneSpecific.Time,Czas
+SceneSpecific.Alarms,Alarmy
+SceneSpecific.Kills,Zabici
+SceneSpecific.Retries,Podejścia
+SceneSpecific.Ghost,Duch
+SceneSpecific.GhostDesc,Dobry szpieg nigdy nie zostaje wykryty.
+SceneSpecific.Pacifist,Pacyfista
+SceneSpecific.PacifistDesc,Dobry szpieg nigdy nikogo nie zabija.
+SceneSpecific.FriendlyScientistsHeader,Protip: Przyjacielscy Naukowcy
+SceneSpecific.FriendlyScientists,"Naukowcy są zbyt zajęci, by zawracać sobie Tobą głowę. Nie wykryją Cię i nie zaatakują."

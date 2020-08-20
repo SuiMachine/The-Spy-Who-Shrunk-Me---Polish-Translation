@@ -1,0 +1,13 @@
+COMMAND = DOWÓDZTWO
+intel = informacje wywiadowcze ?
+Codex = dziennik
+
+Tory do Rosji
+Operacja: Nieprawdopodobne
+Umysł szaleństwa
+Sztuczne Szaleństwo
+Umysł szaleństwa, Na Nowo
+Ważna osoba
+Rakietowy dżokej
+Sajonara, Smoothspy!
+Tożsamość Kwaterniony

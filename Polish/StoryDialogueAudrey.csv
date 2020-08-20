@@ -1,0 +1,233 @@
+Key,Polish
+Dialogue.audrey_000_MyNameIsAudrey,"Nazywam się Audrey. Audrey Smoothspy."
+Dialogue.audrey_001_ItIsNovember,"Jest 12 Listopada, 1981."
+Dialogue.audrey_002_CommandHasSent,DOWÓDZTWO wysłało mnie na misję do Moskwy.
+Dialogue.audrey_003_MyIntel,"Informacje wywiadowcze sugerują, że Związek Radziecki rozkazał prowadzenie prac nad ściśle tajnym prototypem broni zbuntowanemu generałowi Borisowi B. Bolscotchkovichowi w Moskwie."
+Dialogue.audrey_004_ToThisEffect,"W związku z tym, sowieci zrekrutowali Ernsta E. Eierkopfa, byłego nazistowskiego naukowca i złowieszczego geniusza, by im pomógł."
+Dialogue.audrey_005_ItShouldBe,Powinna to być łatwa misja.
+Dialogue.audrey_006_IveSnuck,"Dostałem się na pokład ""Moscow Express"", by ukraść ściśle tajny prototyp broni oraz dowiedzieć co takiego planują wyznaczone mi cele."
+Dialogue.audrey_007_LittleDidIKnow,"Nie miałem pojęcia, że moje problemy miały się stać większe niż się tego spodziewano."
+Dialogue.audrey_008_Thankfully,"Na szczęście - tak. Ale łatwo nie było."
+Dialogue.audrey_009_IGotToPickup,Dostałam się do punktu zbiórki.
+Dialogue.audrey_010_IsThisAll,Czy to cały ekwipunek?
+Dialogue.audrey_011_WheresMyTicket,Gdzie jest mój bilet?
+Dialogue.audrey_012_NoNeed,Nie musisz mi mówić ponownie.
+Dialogue.audrey_013_TheEquipment,"Ekwipunek, Cecil."
+Dialogue.audrey_014_WhatsInHere,Co my tu mamy?
+Dialogue.audrey_015_WhatTheBloody,Co do cholery zapakowaliście w moją walizkę?
+Dialogue.audrey_016_LetsSeeHere,Zobaczmy...
+Dialogue.audrey_017_Bananas,Banany?
+Dialogue.audrey_018_SoImUnarmed,Więc... jestem bezbronna.
+Dialogue.audrey_019_IllKeepThatInMind,"Będę..... mieć to na uwadze."
+Dialogue.audrey_020_SoTheLabGuys,"A więc ludziom z laboratorium w końcu się udało?"
+Dialogue.audrey_021_TheyMadeAFunction,"Stworzyli promień teleportujący, który działa?"
+Dialogue.audrey_022_IFaintlyRecall,"Ledwo pamiętam naszego zakapturzonego pracownika z Londynu, który korzystał z jednego z nich."
+Dialogue.audrey_023_AndOneOfOurField,Do tego jednego z naszych agentów w Detroit oraz Pradze...
+Dialogue.audrey_024_RightRightRight,"Racja, racja..."
+Dialogue.audrey_025_AirbagMines,Poduszki powietrzne!
+Dialogue.audrey_026_FinallyAnAssignment,"W końcu  zadanie, w których mogę je wykorzystać."
+Dialogue.audrey_027_GotItCantWait,"Zrozumiano. Nie mogę się doczekać, by jedną z nich wypróbować."
+Dialogue.audrey_028_GotItWheresTheCabin,Zrozumiano. Gdzie jest ten przedział?
+Dialogue.audrey_029_AConspicuousMysterious,Podejrzana tajemnicza walizka!
+Dialogue.audrey_030_PistolOfSomeSorts,Wygląda na jakiś pistolet oraz jakiś laser-
+Dialogue.audrey_031_OhItsAShrinkRay,Ooo! Promień zmniejszający!
+Dialogue.audrey_032_SorryComrade,"Przepraszam, towarzyszu!"
+Dialogue.audrey_033_ThatsAWaterSlide,"To jedna ze zjeżdżalni wodnych, z których nie skorzystam."
+Dialogue.audrey_034_OhCrapWhatDo,Cholera. Co ja teraz robię?
+Dialogue.audrey_035_AlrightHereGoes,W porządku. No to jazda...
+Dialogue.audrey_036_WowOkaySoImTiny,Wow. OK. Więc jestem teraz mała.
+Dialogue.audrey_037_IThinkICanSneak,"Wydaje mi się, że powinnam być w stanie prześlizgnąć się za kontrolera biletów, wykorzystując dziurę w ścianę."
+Dialogue.audrey_038_DulyNoted,Zrozumiano.
+Dialogue.audrey_039_BetterMakeMyWay,"Zatem, lepiej się tam udaj."
+Dialogue.audrey_040_IThinkISeeThem,Chyba ich widzę. Na przeciwko lady.
+Dialogue.audrey_041_BolskoAndEier,"Bolscotchkovich i Eierkopf planują wystrzelić rakietę nuklearną wypełnioną miniaturowymi żołnierzami, z tajnego obszaru wewnątrz biur CON-NEX."
+Dialogue.audrey_042_BetterHide,Lepiej będzie jak ukryję się przed kontrolerem biletów.
+Dialogue.audrey_043_AnotherSmooth,Kolejne ciche wejście.
+Dialogue.audrey_044_LetsGetStarted,Zaczynajmy.
+Dialogue.audrey_045_AvoidPeopleGotIt,"Unikaj ludzi - zrozumiano."
+Dialogue.audrey_046_OrShrinkMyself,"Lub zmniejsz siebie, by się obok nich przekraść."
+Dialogue.audrey_047_LetsAvoidThat,Postarajmy się uniknąć tego typu nieprzyjemności.
+Dialogue.audrey_048_INeedSomething,"Potrzebuję czegoś, co dałoby mi dostęp do serwerów."
+Dialogue.audrey_049_RandomButtonMash,Naciśniecie losowych przycisków nic nie dało.
+Dialogue.audrey_050_ThisNoteSays,"Ta notka prosi, by trzymać dyskietki do hakowania z dala od serwerów."
+Dialogue.audrey_051_ItsBackIn2ndFloor,Wrócił do pokoju gościnnego na drugim piętrze w celu prezentacji.
+Dialogue.audrey_052_GeeHacking,"Hmmmm, mini-gry z hackowaniem."
+Dialogue.audrey_053_ThoseSurelyNever,Te na pewno nigdy się nie znudzą.
+Dialogue.audrey_054_NailedIt,Udało się.
+Dialogue.audrey_055_OhCrapSetOff,O cholera. Włączyłam alarm.
+Dialogue.audrey_056_CurseYouHack,"A niech Cię, rewolucjo hakowania haków."
+Dialogue.audrey_057_NowThisOldSchool,To Ci dopiero ""old school"".
+Dialogue.audrey_058_ImInTheVault,Jestem w skarbcu.
+Dialogue.audrey_059_WowItsDark,"Wow, ciemno tu."
+Dialogue.audrey_060_AndItGoesDeep,Głęboko schodzi...
+Dialogue.audrey_061_OhShutUp,"Oj, zamknij się."
+Dialogue.audrey_062_UhOhCantBeGood,"Oh, oh. To nie może oznaczać nic dobrego."
+Dialogue.audrey_063_GreatLasers,Wspaniale. Lasery. Dokładnie tego potrzebowałam.
+Dialogue.audrey_064_CantTheyThink,Nie mogliby wymyślić czegoś mniej przewidywalnego?
+Dialogue.audrey_065_AlrightCecil,"Dobra, Cecil. Przedostałam się za trzy rzędy laserów."
+Dialogue.audrey_066_WhatsUpNext,Co dalej?
+Dialogue.audrey_067_LetMeGuess,Niech zgadnę..
+Dialogue.audrey_068_Sigh,[Poważnie wzdycha]
+Dialogue.audrey_069_AnotherHappy,Kolejne szczęśliwe lądowanie.
+Dialogue.audrey_070_EverythingsCleanAndNerd,Wszystko jest tu czyste i jest to sporo kujonów.
+Dialogue.audrey_071_IStuffedHim,Schowałam go w torebce.
+Dialogue.audrey_072_OhWow,Oh wow. Wygląda jak duża biblioteka.
+Dialogue.audrey_073_ATargetingChipDefInLib,Czip do celowania. Zdecydowanie jestem w bibliotece.
+Dialogue.audrey_074_ForSecretSoviet,"Jak na tajemniczy plan sowietów, są to całkiem dobre powody."
+Dialogue.audrey_075_OKTheresThreeLanes,"OK, są trzy linie. Waszyngton, Kuba oraz Londyn."
+Dialogue.audrey_076_NowWhereSendMissile,Gdzie wysłać pocisk?
+Dialogue.audrey_077_Cuba,Kuba. Ma to zdecydowanie sens.
+Dialogue.audrey_078_London,Londyn. Oczywisty wybór.
+Dialogue.audrey_079_Washington,"Waszyngton. Może to dobry pomysł, by panowie z USA się tym zajęli."
+Dialogue.audrey_080_OopsDontShoot,Oops. Nie zabijaj posłańca. 
+Dialogue.audrey_081_Splendid,Doskonale.
+Dialogue.audrey_082_AnotherJob,Kolejna dobrze wykonana robota.
+Dialogue.audrey_083_HotOffPresses,Świeżo z druku.
+Dialogue.audrey_084_WhatTheBloodyNoise,Co do do cholery był za hałas?
+Dialogue.audrey_085_ButItOpenedOffIGo,Ale otworzył coś jeszcze. Czas spadać.
+Dialogue.audrey_086_OhGreatBossFight,O świetnie! Walka z bossem.
+Dialogue.audrey_087_ThatsJustWhatNeeded,Tylko tego mi było potrzeba.
+Dialogue.audrey_088_YupImGuessing,"Ta. Zgaduję, że nie będzie z tego powodu o mnie głośno."
+Dialogue.audrey_089_INeedToGetCloseUnplug,Muszę podejść i wyłączyć to cholerne urządzenie.
+Dialogue.audrey_090_IUnplugged,"Wyłączyłam to gigantyczne coś, co jest robotem i systemem wykrywania kapitalistów."
+Dialogue.audrey_091_AllInADaysWork,To wszystko na jeden dzień.
+Dialogue.audrey_092_ThatCantBeGood,To nie brzmi dobrze...
+Dialogue.audrey_093_EasyThereEasy,"Spokojnie, spokojnie!"
+Dialogue.audrey_094_TheresRampagingGiant,Jest tu jakiś szalejący gigant.
+Dialogue.audrey_095_IThinkOneOfEier,"Myślę, że może to być jeden z eksperymentów Eierkopfa."
+Dialogue.audrey_096_WellHeApparentlySkipped,"Well, he apparently skipped leg day."
+Dialogue.audrey_097_ImSoGladYouPacked,"Teraz naprawdę się cieszę, że zapakowałeś banany zamiast broni palnej."
+Dialogue.audrey_098_SoDropHim,"Więc upuściłam go na tyłek kilka razy, korzystając ze skórek od banana."
+Dialogue.audrey_099_ManagedToSneak,Udało mi się przekraść obok giganta.
+Dialogue.audrey_100_GeneralBall,"Generał Bał-krowicz ma przemowę w gigantycznym magazynie, który właśnie odkryłam, że znajduje się na przeciwko laboratorium."
+Dialogue.audrey_101_NotWithoutBeing,Nie bez bycia zauważonym.
+Dialogue.audrey_102_IShouldProbably,Prawdopodobnie powinnam się przekraść i zobaczyć dokąd prowadzą znajdujące się za nim drzwi.
+Dialogue.audrey_103_HoorayForElevators,Hura! Więcej wind!
+Dialogue.audrey_104_TheElevatorStopped,Winda zatrzymała się w jednym z bardzo bogatych miejsc.
+Dialogue.audrey_105_MakesSense,Ma to sens.
+Dialogue.audrey_106_INeedToLookAround,"Muszę się rozejrzeć w poszukiwaniu czegoś, co wskazywałoby co takiego planują."
+Dialogue.audrey_107_IFoundAGreenhouse,Znalazłam szklarnie.
+Dialogue.audrey_108_IThinkItsTheOne,"Myślę, że może być to jedna z tych, które użyto, by stworzyć surowicę dla super-żołnierzy."
+Dialogue.audrey_109_BlazeIt,Blaze it.
+Dialogue.audrey_110_GetThisGeneral,"Słuchaj tego. Generał Bibinovich ma tu rakietę nuklearną."
+Dialogue.audrey_111_UnderThatWarehouse,"Pod magazynem, obok którego przeszłam!"
+Dialogue.audrey_112_PrettySimpleJustBackUp,"Łatwizna. Tylko wezwać windę, i..."
+Dialogue.audrey_113_OhCrap,O szlag.
+Dialogue.audrey_114_YouDoKnowBritish,"Wiesz, że jestem Brytyjką, prawda?"
+Dialogue.audrey_115_DontYouDare,"Nawet się nie waż, Belskenchkovich!"
+Dialogue.audrey_116_OhCrapIllNever,O cholera. Nigdy nie ujdę z tego z życiem i nie zdążę rozbroić głowicy.
+Dialogue.audrey_117_UnlessThatMiniatureCar,"Chyba, że... ten miniaturowy samochodzik."
+Dialogue.audrey_118_TheresNoOtherChoice,"Nie ma wyboru. Czas na obowiązkową sekcję z prowadzeniem pojazdu!"
+Dialogue.audrey_119_YouHeardMe,Słyszałeś mnie.
+Dialogue.audrey_120_OffIGo,No to lecę.
+Dialogue.audrey_121_BoyAmIGlad,"Rany, ale się cieszę, że schowek na rękawiczki jest wypełniony tymi przydatnymi bateriami do promienia zmniejszającego."
+Dialogue.audrey_122_OtherwiseThisSection,"W przeciwnym razie, ta sekcja nie trzymałaby się kupy"
+Dialogue.audrey_123_CurseTheseBatteries,Szlag by trafił te tanie baterie.
+Dialogue.audrey_124_IveGottaGoOnFoot,Muszę iść na piechotę.
+Dialogue.audrey_125_HopeIllMakeIt,Obym zdążyła na czas.
+Dialogue.audrey_126_IManagedToSlip,"Udało mi się prześlizgnąć za komitet powitalny, ale ciągle jest tu więcej żołnierzy."
+Dialogue.audrey_127_IveGotToGetPast,"Muszę prześlizgnąć się obok nich, by dotrzeć do rakiety."
+Dialogue.audrey_128_AlrightJustGottaFind,"W porządku. Muszę tylko znaleźć wejście."
+Dialogue.audrey_129_CecilItsTooSmall,"Cecil, jest za małe! Nie będzie pasować."
+Dialogue.audrey_130_Right,Racja!
+Dialogue.audrey_131_Oops,Ups.
+Dialogue.audrey_132_YouCanGiveGameOvers,Możesz teraz wyświetlać ekrany \"Końca Gry\"?
+Dialogue.audrey_133_OkayNowWhat,"OK, co teraz mam zrobić."
+Dialogue.audrey_134_TheresALotTinker,"Jest tu dość rzeczy, przy których można majstrować."
+Dialogue.audrey_135_IThinkThatMonitor,Ten monitor powinien być mi w stanie pomóc.
+Dialogue.audrey_136_OkaySoDisableSatellite,"OK, więc... muszę wyłączyć połączenie z satelitą."
+Dialogue.audrey_137_WellRecalibrating,"Ponowne skalibrowanie systemu celowniczego, nie jest złym pomysłem."
+Dialogue.audrey_138_ButINeedToDisarm,"Muszę rozbroić całe to ustrojstwo, zanim trafi lub namierzy cel."
+Dialogue.audrey_139_ItsHeadedForWashington,"Leci aktualnie w kierunku Waszyngtonu."
+Dialogue.audrey_140_ForssaNuke,"Forssa, w Finlandii? Można by w nią trafić głowicą, po tym jak uratuje świat."
+Dialogue.audrey_141_MoscowMeDying,"Moskwa. Podoba mi się ta epicka ironia, ale nie podoba mi się ta cała część, w której to ja ginę."
+Dialogue.audrey_142_NoThatsNotIt,"Nie, nie to mam na myśli."
+Dialogue.audrey_143_HeyLessPower,"Hej, mniej zasilania dla łącza satelitarnego!"
+Dialogue.audrey_144_INeedToDoMore,Muszę robić tego typu rzeczy częściej.
+Dialogue.audrey_145_SatelliteUplinkAtZero,Łączne satelitarne na zero!
+Dialogue.audrey_146_IDidIt,UDAŁO MI SIĘ!
+Dialogue.audrey_147_CecilYoureBreaking,"Cecil, przerywa Cię."
+Dialogue.audrey_148_CrapTooHigh,"Cholera. Myślę, że wznosimy się trochę zbyt wysoko."
+Dialogue.audrey_149_WelpTooLate,"Cóż, trochę za późno na zmianę kursu."
+Dialogue.audrey_150_GoodbyeCruel,"Żegnaj okrutny świecie."
+Dialogue.audrey_151_YesYes,"Tak, tak - wiem co masz na myśli.."
+Dialogue.audrey_152_IKindOfDid,"Tak jakby zrobiłam zupełne przeciwieństwo tego co należało zrobić."
+Dialogue.audrey_153_HeresToYouGeneral,"To dla Ciebie generale. Robię za Ciebie, Twoją robotę."
+Dialogue.audrey_154_AndMonologuing,I wygłaszam monolog zza grobu.
+Dialogue.audrey_155_BecauseThatMakesSense,Bo to akurat trzyma się kupy...
+Dialogue.audrey_156_Videogames,Gry komputerowe.
+Dialogue.audrey_157_JustReloadTheSave,"Po prostu wczytaj punkt zapisu, a opowiem Ci co tak naprawdę się wydarzyło."
+Dialogue.audrey_158_IWontGrace,"Nie dam Ci przyjemności słuchania przemowy, jak to złe rzeczy mają konsekwencje. Nie przy tak niskim budżecie."
+Dialogue.audrey_160_WelpTooLate,"Cóż...  jest za późno, by zawrócić."
+Dialogue.audrey_161_WithMyLastBreath,"Moim ostatnim tchnieniem... przeklinam Cię, generale Belitsovich!"
+Dialogue.audrey_161_YesYesYes,"Tak, tak, tak... lałam sowietów przez całą grę."
+Dialogue.audrey_162_AndNowImSupposed,A teraz mam mięc wyrzuty sumienia.
+Dialogue.audrey_163_BecauseIThink,"Bo wydaje mi się, że wysadzenie Moskwy nie jest dobrym rozwiązaniem."
+Dialogue.audrey_164_ThenAgainWhatWould,"Przy czym, co niby takiego mogę wiedzieć. W końcu nie żyję."
+Dialogue.audrey_165_YoureGettingAMono,Słuchasz monologu zza grobu.
+Dialogue.audrey_166_ListenJustBetween,Słuchaj - tak pomiędzy nami. Nie wygląda to dobrze.
+Dialogue.audrey_167_ReloadAndNukeForssa,Wczytaj punkt zapisu i zamiast tego wysadź Forssę.
+Dialogue.audrey_168_TrustMeWorldFavor,"Zaufaj mi. Zrobisz światu przysługę."
+Dialogue.audrey_169_OrGoFullBonkers,"Albo mógłbyś pójść na całość i naprawdę uratować świat rozbrajając rakietę, jak powiedział Ci Cecil."
+Dialogue.audrey_170_TooLateToChange,"Jest za późno, by zawrócić."
+Dialogue.audrey_171_AlthoughCantThink,"Ale nie mogę pomyśleć o lepszym miejscu, w które miałaby trafić rakieta."
+Dialogue.audrey_172_IWontPretend,"Nie będę udawać. nie miałam żadnego sposobu, by całe to miasto od-kocić."
+Dialogue.audrey_173_ButAtLeastWeHit,Ale przynajmniej trafiliśmy we właściwy cel..
+Dialogue.audrey_174_IMeanNobodyForssa,"To jest, nikomu nie będzie szkoda Forssy."
+Dialogue.audrey_175_ThenAgainDoingMono,"Przy czym, znowu... prowadzenie jednego z monologów z poza grobu, może nie być dla mnie najlepszym zakończeniem."
+Dialogue.audrey_176_ThenAgainNoForssa,"Z drugiej strony... chciałabym żyć w świecie, w którym nie istnieje Forssa. Na litość boską."
+Dialogue.audrey_177_IRuinedTheSoviets,Pokrzyżowałam plan sowietów i wysadziłam najgorsze miasto na mapie.
+Dialogue.audrey_178_TheresWorseWays,"Są gorsze sposoby, na śmierć."
+Dialogue.audrey_179_TheEndUntilWisen,"Koniec. No chyba, że zmądrzejesz i wczytasz ostatni punkt zapisu."
+Dialogue.audrey_180_SinceTheTrueEnding,Bo prawdziwe zakończenie ma przynajmniej wpisaną poranną herbatę.
+Dialogue.audrey_181_YesIThinkIDidIt,Tak! Chyba mi się udało. Łącze z satelitą jest wyłączone.
+Dialogue.audrey_182_OhRightThrusters,"O, racja! Dysze, które ciągle działają."
+Dialogue.audrey_183_SoImTrappedSpace,Więc jestem teraz uwięziona w przestrzeni kosmicznej.
+Dialogue.audrey_184_CecilCecilTooHigh,Cecil? Cecil? Jestem zbyt wysoko by odebrać sygnał radiowy.
+Dialogue.audrey_185_OhBollocks,O szlag.
+Dialogue.audrey_186_WellTheresWorseView,"Cóż, można odejść w gorszy sposób. Przynajmniej widok jest piękny."
+Dialogue.audrey_187_ThoughItsGettingCold,Chociaż rob się tu bardzo zimno...
+Dialogue.audrey_188_HeyWaitAMinute,"Hej, chwileczkę. Nie możesz zakończyć gry, ze mną zamarzniętą na śmierć po tym, jak uratowałam świat!"
+Dialogue.audrey_189_CecilGetCatland,CECIL! Połącz mnie z Catland.
+Dialogue.audrey_190_YesHelloAudreyHere,"Tak, słucham? Tu Audrey Smoothspy."
+Dialogue.audrey_191_WhenIAgreed,Kiedy zgodziłam się zagrać w grze komputerowej...
+Dialogue.audrey_192_IExpectedTo,"Spodziewałam się, przynajmniej szczęśliwego zakończenia."
+Dialogue.audrey_193_WhatKindOfEnding,Co to niby za zakończenie? Że niby jestem zamarznięta na śmierć w przestrzeni kosmicznej?
+Dialogue.audrey_194_ImTellingYouNever,"Mówię Ci... nigdy więcej się na to nie zgodzę."
+Dialogue.audrey_195_UnlessYouGetMeDown,Sprowadź mnie natychmiast.
+Dialogue.audrey_196_AndGiveMeAtLeast,"I daj mi przynajmniej WYMÓWKĘ, by mieć więcej przygód."
+Dialogue.audrey_197_ThatsMoreLikeIt,Tak lepiej.
+Dialogue.audrey_198_Weeeee,Weeeeeee!
+Dialogue.audrey_199_AndThusEnds,I tak kończą się moje przygody w Moskwie.
+Dialogue.audrey_200_GeneralBolskoWont,"Generał Bolscotchkovich nie prędko pojawi się ponownie w nagłówkach gazet. Zniszczył swoją dumę, ego oraz rakietę."
+Dialogue.audrey_201_EierkopfWasShipped,Eierkopf został wysłany.... diabli wie gdzie i od teraz będzie robić tylko wygłupy na które pozwoli mi Dowództwo.
+Dialogue.audrey_202_AsForMyself,Jeśli o mnie chodzi -  wróciłam do domku w Wielkiej Brytanii na herbatę.
+Dialogue.audrey_203_AfterAboutAMonth,Po miesiącu spędzonym Atlantyku i szukania sposoby na powrót.
+Dialogue.audrey_204_ButIDigressAllsWell,"Wracając do tematu. Wszystko dobre, co się dobrze kończy."
+Dialogue.audrey_205_EierkopfHamster,I Eierkopf pewnie ciągle biega w kółku dla chomika.
+Dialogue.audrey_206_EierkopfHoliday,I Eierkopf nie dożył powstania ""Holiday Special"".
+Dialogue.audrey_207_AdmittedlySending,"Przyznaję, wysłanie Eierkopfa do Kuby oznacza, że wróci, by się zemścić."
+Dialogue.audrey_208_ButHeySequelHook,"Ale cóż... mów o ""sequel hooku""."
+Dialogue.audrey_209_EvenThoughFired,Mimo iż zostałam zwolniona niemal natychmiast za taką wpadkę.
+Dialogue.audrey_210_TheyWillSayShort,"Powiedzą, że moja przygoda była krótka i że wzniosłam się tylko na chwilę."
+Dialogue.audrey_211_IWillCounter,"A ja odpowiem w najlepszy szpieg zgadza się, żeby tylko odrobinę przekroczyć okres pozwalający na zwrot pieniędzy dla tego typu przygód."
+Dialogue.audrey_212_YouKnowWhatIMean,Wiesz o co mi chodzi.
+Dialogue.audrey_213_IThinkTheresLesson,Jest tu pewnie jakiś morał do nauki.
+Dialogue.audrey_214_TheLargerTheHarder,"Im więksi są, tym mocniej upadają."
+Dialogue.audrey_215_AndSizeMattersGuys,Że rozmiar się nie liczy. Niezależnie od tego co mówią ludzie.
+Dialogue.audrey_17_TheStopWatch_t3,Stoper powinien się przydać. Pozwala mi zatrzymać na chwilę czas. Postaraj się nie myśleć o tym zbyt intensywnie.
+Dialogue.QI2_audrey_06_WhiteRussian,Biały Rosjanin. Z cytryną i limonką. Cóż za okropne hasło rozpoznawcze.
+Dialogue.QI2_audrey_07_NotTheFirstTime,"To nie pierwszy raz, kiedy to prześlizgnęłam się za żelazną kurtynę."
+Dialogue.QI2_audrey_08_ComeWithMe,"Choć ze mną, jeśli chcesz przeżyć."
+Dialogue.QI2_audrey_09_DontWorryIHaveAPlan,"Nie martw się, mam plan."
+Dialogue.QI2_audrey_10_BasilIDontHave,"Basil, nie mam planu. Wygląda na to, że przedostanie się przez granice będzie problemem. Masz jakieś informacje wywiadowcze, jak przemycić hakera?"
+Dialogue.QI2_audrey_11_GotIt,Mam go.
+Dialogue.QI2_audrey_12_HoldStill,Stój w miejscu.
+Dialogue.QI2_audrey_13_HoldYourBreath,Wstrzymaj oddech!
+Dialogue.QI2_audrey_14_OhBollocks,O cholera. Haker nie żyje. Misja anulowana.
+Dialogue.QI2_audrey_15_BottomsUp,Do dna!
+Dialogue.QI2_audrey_16_StaySafeOutThere,Uważaj na siebie. Wezmę dokumenty.
+Dialogue.QI2_audrey_17_AlrightBasil,"W porządku, Basil. Mam dokumenty. Wygląda na to, że haker jest w bezpiecznych rękach."
+Dialogue.QI2_audrey_18_OhGreatLooksLike,"O świetnie. Wygląda, że to dzisiejsza rozrywka."
+Dialogue.QI2_audrey_19_TimeToRun,Zatem czas pobiec w maratonie.
+Dialogue.QI2_audrey_20_DontWorry,"Nie martw się, dam radę."
