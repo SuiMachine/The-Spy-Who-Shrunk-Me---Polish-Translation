@@ -1,44 +1,43 @@
 ﻿1
 00:00:00,329 --> 00:00:02,710
-Welp, too late to change direction now.
+Cóż...  jest za późno, by zawrócić.
 
 2
 00:00:02,760 --> 00:00:07,100
-With my last breath, I curse General Belitsovits!
+Moim ostatnim tchnieniem... przeklinam Cię, generale Belitsovich!
 
 3
 00:00:12,000 --> 00:00:18,170
-Yes yes yes, I've been bashing Soviets all damn game and now I'm supposed to feel bad
+Tak, tak, tak... lałam sowietów przez całą grę. A teraz mam mięc wyrzuty sumienia.
 
 4
 00:00:18,220 --> 00:00:21,380
-because I think nuking Moscow isn't the optimal solution.
+Bo wydaje mi się, że wysadzenie Moskwy nie jest dobrym rozwiązaniem
 
 5
 00:00:21,430 --> 00:00:25,500
-Then again, what the bloody hell would I know - I'm dead.
+Przy czym, co niby takiego mogę wiedzieć. W końcu nie żyję.
 
 6
 00:00:25,550 --> 00:00:28,219
-You're getting a monologue from beyond the grave.
+Słuchasz monologu zza grobu.
 
 7
 00:00:28,269 --> 00:00:31,920
-Listen, just between you and me this isn't a good look.
+Słuchaj - tak pomiędzy nami. Nie wygląda to dobrze.
 
 8
 00:00:31,970 --> 00:00:35,170
-Reload the save and nuke Forssa instead.
+wczytaj punkt zapisu i zamiast tego wysadź Forssę.
 
 9
 00:00:35,220 --> 00:00:39,020
-Trust me, you'll do the entire world a favor.
+Zaufaj mi. Zrobisz światu przysługę.
 
 10
 00:00:39,070 --> 00:00:43,590
-Or you could go full bonkers and actually save the world by defusing the thing like
+Albo mógłbyś pójść na całość i naprawdę uratować świat rozbrajając rakietę,
 
 11
 00:00:43,640 --> 00:00:44,780
-Cecil, mówiłam Ci.
-
+jak powiedział Ci Cecil.

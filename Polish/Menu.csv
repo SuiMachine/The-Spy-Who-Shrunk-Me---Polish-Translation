@@ -42,9 +42,9 @@ Menu.LabsSceneTop,Laboratoria Con-Nex - 1981
 Menu.LabsSceneBottom,Umysł Szaleństwa
 Menu.LabsSceneDescription,"Doktor Ernst E. Eierkopf musi zostać pojmany i wysłany do DOWÓDZTWA, by powstrzymać plan generała. Zinfiltruj tajne laboratorium doktora, by go pojmać."
 Menu.ArchivesSceneTop,Sekretne Sowieckie Archiwa - 1981
-Menu.ArchivesSceneBottom,Beyond the Books
+Menu.ArchivesSceneBottom,Po drugiej stronie książki
 Menu.ArchivesSceneDescription,"Audrey Smoothspy infiltruje sowieckie archiwa. Na miejscu musi ona znaleźć sowiecką rakietę do listów, w której może wysłać Eierkopfa. Głęboko pod biurem CON-NEX znajduje się jednak coś bardzo niepokojącego..."
-Menu.ArchivesBossSceneTop,Secret Soviet Archives - 1981
+Menu.ArchivesBossSceneTop,Tajne Sowieckie Archiwa - 1981
 Menu.ArchivesBossSceneBottom,Sztuczne Szaleństwo
 Menu.ArchivesBossSceneDescription,"Audrey Smoothspy musi unieszkodliwić COMMUNIBOTA 3000 - najnowszą wersję programu wykrywającego kapitalistów."
 Menu.LabsReduxSceneTop,LABORATORIA CON-NEX - 1981
@@ -92,22 +92,22 @@ Menu.Back,Wróć
 Menu.Apply,Zastosuj
 Menu.Defaults,Domyślne
 Menu.Collectibles,Znajdźki
-Menu.ChHomeTitle,AUDREY'S BUNGALOW - 1981
+Menu.ChHomeTitle,DOMEK AUDREY - 1981
 Menu.ChHomeDesc,Rozgość się
-Menu.ChIntroDesc,A Crimson Menace
+Menu.ChIntroDesc,Szkarłatne widmo
 Menu.Ch1TrainTitle,MOSCOW EXPRESS - 1981
 Menu.Ch1TrainDesc,Tory do Rosji
 Menu.Ch2OfficeTitle,BIURA CON-NEX - 1981
 Menu.Ch2OfficeDesc,Wygłupy w Biurze
-Menu.Ch2BOperationTitle,CON-NEX SECRET VAULT - 1981
+Menu.Ch2BOperationTitle,TAJNY SKARBIEC CON-NEX - 1981
 Menu.Ch2BOperationDesc,Operacja: Nieprawdopodobne
-Menu.Ch3LabsTitle,CON-NEX LABORATORIES - 1981
+Menu.Ch3LabsTitle,LABORATORIA CON-NEX - 1981
 Menu.Ch3LabsDesc,Umysł Szaleństwa
-Menu.Ch4ArchivesTitle,SECRET SOVIET ARCHIVES - 1981
-Menu.Ch4ArchivesDesc,Beyond the Books
-Menu.Ch5ArchivesBossTitle,SECRET SOVIET ARCHIVES - 1981
+Menu.Ch4ArchivesTitle,TAJNE SOWIECKIE ARCHIWA - 1981
+Menu.Ch4ArchivesDesc,Po drugiej stronie książki
+Menu.Ch5ArchivesBossTitle,TAJNE SOWIECKIE ARCHIWA - 1981
 Menu.Ch5ArchivesBossDesc,Sztuczne Szaleństwo
-Menu.Ch6LabsReduxTitle,CON-NEX LABORATORIES - 1981
+Menu.Ch6LabsReduxTitle,LABORATORIA CON-NEX - 1981
 Menu.Ch6LabsReduxDesc,"Sztuczne Szaleństwo, Na Nowo"
 Menu.Ch7GeneralFatResidenceTitle,BUNKIER BOLSCOTCHKOVICHA - 1981
 Menu.Ch7GeneralFatResidenceDesc,Ważna Osoba
@@ -115,11 +115,11 @@ Menu.Ch8LabsWarehouseTitle,TAJNY SILOS - 1981
 Menu.Ch8LabsWarehouseDesc,Rakietowy dżokej
 Menu.Ch9RocketTitle,PRZESTRZEŃ KOSMICZNA - 1981
 Menu.Ch9RocketDesc,"Sajonara, Smoothspy!"
-Menu.ChEndingGoodDesc,Utorowałeś dzisiaj świat
+Menu.ChEndingGoodDesc,Uratowałeś dzisiaj świat
 Menu.ChEndingBadWashingtonDCDesc,Najgorszy szpieg kiedykolwiek
 Menu.ChEndingBadForssaDesc,Mniejsze zło
-Menu.ChEndingBadMoscowDesc,Weird Flex But Ok
-Menu.ChQuaternionIntroDesc,A Night to Remember
+Menu.ChEndingBadMoscowDesc,"Dziwny pomysł, ale niech będzie"
+Menu.ChQuaternionIntroDesc,Noc zapadająca w pamięć
 Menu.Ch10QuaternionTitle,BERLIN - 1981
 Menu.Ch10QuaternionDesc,Tożsamość Kwaterniony
 Menu.ChQuaternionOutroDesc,Koniec
@@ -136,10 +136,10 @@ Menu.OperationTip,"Masz problemy z laserami? Wykorzystaj promień pomniejszając
 Menu.LabsTipHeader,PROTIP - PODEJMIJ DECYZJĘ
 Menu.LabsTip,"Jest wiele możliwych rezultatów dla misji. Decyzje, które podejmiesz, będą miały swoje konsekwencje."
 Menu.ArchivesTipHeader,PROTIP - NIESPODZIEWANY ODDZIAŁY
-Menu.ArchivesTip,Wykonywanie zadań zaowocować przybyciem dodatkowych oddziałów straży. Zachowaj czujność!
+Menu.ArchivesTip,Wykonywanie zadań może zaowocować przybyciem dodatkowych oddziałów straży. Zachowaj czujność!
 Menu.MinibossTipHeader,PROTIP - MAGNETYZM
 Menu.MinibossTip,"Unikaj przyciągania uwagi i znajdź coś, co zniszczy komputery."
-Menu.LabsReduxTipHeader,PROTIP - PICK YOUR BATTLES
+Menu.LabsReduxTipHeader,PROTIP - DECYDUJ Z KIM WALCZYSZ
 Menu.LabsReduxTip,Unikanie wrogów potężniejszych od Ciebie może być dobrym pomysłem. Niemal zawsze istnieje droga pozwalająca ominąć niebezpieczeństwo.
 Menu.GeneralTipHeader,PROTIP - SLAVDA
 Menu.GeneralTip,"Mimo iż jazda nią daje ogromną frajdę, Slavda może przyciągać niechcianą uwagę. Zachowaj ostrożność, jeśli chcesz pozostać niezauważony."
@@ -150,7 +150,7 @@ Menu.RocketTip,"Czas nie jest po Twojej stronie. Znajdź sposób by rozbroić ra
 Menu.HomeTipHeader,PROTIPS - ZNAJDŹKI
 Menu.HomeTip,Podczas misji możesz znaleźć znajdźki. Posłużą one do wypełnienia Twojego domu fascynującymi przedmiotami!
 Menu.QuaternionTipHeader,PROTIP - STREFY WOLNE OD GADŻETÓW
-Menu.QuaternionTip,Nie rujnuj zabawy. Przyjdzie Ci korzystać z gadżetów w dalejszej części etapu.
+Menu.QuaternionTip,Nie rujnuj zabawy. Przyjdzie Ci korzystać z gadżetów w dalszej części etapu.
 Menu.Difficulty,Poziom trudności
 Menu.ChooseDifficulty,Wybierz poziom trudności
 Menu.Casual,Luźny
@@ -161,10 +161,10 @@ Menu.NormalDesc,"Normalny - zalecane doświadczenie.<br><br>Wrogowie szybko Cię
 Menu.SuperspyDesc,"Jeżeli grasz w dużą ilość FPSów i skradanek - spróbuj Super-szpiega.<br><br>Wrogowie będą wykrywać Cię szybciej. Jest to brutalny, ale satysfakcjonujący doświadczenie, które rzuca Ci wyzwanie i sprawia, że korzystasz, ze wszystkich dostępnych gadżetów."
 Menu.DifficultyTip,"Poziom trudności zawsze można zmienić w dowolnym momencie w menu Opcji."
 Menu.Alarm,Alarm!
-Menu.Hostile,Wrogo
+Menu.Hostile,Atak
 Menu.Searching,Poszukiwanie
 Menu.CollectibleFound,Znalazłeś znajdźkę!
-Menu.SpybaseAdd,Dodano do Twojej bazy spybase!
+Menu.SpybaseAdd,Dodano do Twojej bazy "spybase"!
 Menu.Interact,Interakcja
 Menu.Pickup,Podnieś
 Menu.Equip,Podnieś
@@ -213,4 +213,4 @@ Menu.ToolbeltDistanceVR,Odległość paska narzędzi
 Menu.HeightAdjustVR,Dostosowanie wysokości
 Menu.MoveSpeedVR,Szybkość poruszania
 Menu.MissionUnlockedTitle,Nowa misja została odblokowana!
-Menu.MissionUnlockedText,"Gratulacje! Udało Ci się ukończyć grę! Odblokowałeś dodatkową misję ""Tożsamość Kwaterniony"". By w nią zagrać, uruchom przerywnik filmowy ""A Night To Remember"" w menu głównym!"
+Menu.MissionUnlockedText,"Gratulacje! Udało Ci się ukończyć grę! Odblokowałeś dodatkową misję ""Tożsamość Kwaterniony"". By w nią zagrać, uruchom przerywnik filmowy ""Noc zapadająca w pamięć"" w menu głównym!"

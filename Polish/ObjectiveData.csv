@@ -26,62 +26,62 @@ Objective.operation.open_blast_doors_title,Otwórz grodzie
 Objective.operation.flip_the_switch_title,Flip the switch
 Objective.operation.make_your_way_to_blast_doors_title,Udaj się do grodzi
 Objective.operation.activate_elevator_title,Aktywuj windę
-Objective.operation.survive_laser_corridor_title,Przeżyj korytarz z laserami the laser corridor
-Objective.operation.survive_second_laser_corridor_title,Survive the second laser corridor
-Objective.operation.descend_to_bottom_title,Descend to the bottom of the pit
-Objective.operation.get_to_elevator_title,Get to the elevator
-Objective.labs.pick_up_spytacles_title,Pick up the Spytacles
-Objective.labs.unlock_mainlabs_doors_title,Unlock doors to the main lab
-Objective.labs.sneak_into_mainlabs_title,Sneak into the main lab
-Objective.labs.capture_headscientist_title,Capture Dr. Eierkopf
-Objective.labs.throw_headscientist_into_bag_and_pick_it_up_title,Throw Dr. Eierkopf into the bag and pick it up
-Objective.labs.sabotage_assemblyline_title,Sabotage the mail missile assembly line
-Objective.labs.exit_labs_title,Exit the labs
-Objective.archives.get_evidence_title,Steal evidence
-Objective.archives.get_key_title,Find key for locked room
-Objective.archives.get_targetingchip_title,Get the targeting chip
-Objective.archives.stop_missileline_cuba_title,Send the package to Cuba
-Objective.archives.stop_missileline_london_title,Send the package to London
-Objective.archives.stop_missileline_washington_title,Send the package to Washington
-Objective.archives.remove_parcel_title,Remove parcel from the mail missile
-Objective.archives.send_headscientist_title,Place Eierkopf in the mail missile
-Objective.archives.eierkopf_cuba_title,Place Eierkopf in the mail missile
-Objective.archives.eierkopf_london_title,Place Eierkopf in the mail missile
-Objective.archives.eierkopf_DC_title,Place Eierkopf in the mail missile
-Objective.archives.send_evidence_title,Place evidence bag in the mail missile
-Objective.archives.burn_books_title,Burn Bolscotchkovich's autobiography
-Objective.archives.shred_notes_title,Shred autobiography notes
-Objective.archives.enter_bossroom_title,Leave the archives
-Objective.archivesboss.release_elevator_lockdown_title,Release the elevator lockdown
-Objective.archivesboss.find_something_to_sabotage_first_computer_title,Find something to sabotage first computer
-Objective.archivesboss.sabotage_computer_one_title,Sabotage the first computer
-Objective.archivesboss.find_something_to_sabotage_second_computer_title,Find something to sabotage second computer
-Objective.archivesboss.sabotage_computer_two_title,Sabotage the second computer
-Objective.archivesboss.unplug_the_communibot_title,Unplug the COMMUNIBOT
-Objective.archivesboss.get_to_the_elevator_title,Get to the elevator
-Objective.labsredux.look_around_title,Look around in the labs
-Objective.labsredux.turn_on_the_power_for_manual_override_title,Turn on the power for the manual override
-Objective.labsredux.open_the_blast_door_title,Open the blast door
-Objective.labsredux.escape_the_super_soldier_title,Escape the super soldier
-Objective.labsredux.defeat_the_super_soldier_title,Defeat the super soldier
-Objective.labsredux.investigate_the_commotion_title,Investigate the commotion
-Objective.labsredux.get_to_the_elevator_title,Get to the elevator
-Objective.residence.investigate_the_residence_title,Investigate the residence
-Objective.residence.torch_the_super_corn_title,Torch the super corn
-Objective.residence.investigate_further_title,Investigate further
-Objective.residence.check_the_table_title,Check the table
-Objective.residence.get_into_the_miniature_car_title,Shrink yourself into the miniature car
-Objective.residence.escape_the_dining_room_title,Escape the dining room
-Objective.residence.escape_the_residence_title,Escape the residence
-Objective.warehouse.slip_past_welcoming_party_title,Slip past the welcoming party
-Objective.warehouse.find_a_way_to_rocket_title,Find your way to the rocket
-Objective.warehouse.select_route_0_title,Find your way to the rocket (Route A)
-Objective.warehouse.select_route_1_title,Find your way to the rocket (Route B)
-Objective.warehouse.rocketcatch_title,Catch the rocket!
-Objective.rocket.switchpuzzle_title,Climb the rocket and unlock passage to the next floor
-Objective.rocket.gradientpuzzle_title,Disable the cryosleep chambers by aligning the pieces
-Objective.rocket.find_switches_title,Find the switches to turn on the elevator
-Objective.rocket.select_target_title,Figure out how to defuse the nuke or change its target
+Objective.operation.survive_laser_corridor_title,Przedostań się żywcem przez pierwszy korytarz z laserami
+Objective.operation.survive_second_laser_corridor_title,Przedostań się żywcem przez drugi korytarz z laserami
+Objective.operation.descend_to_bottom_title,Zejdź na dno szybu
+Objective.operation.get_to_elevator_title,Dotrzyj do windy
+Objective.labs.pick_up_spytacles_title,Podnieś Szpiegulary
+Objective.labs.unlock_mainlabs_doors_title,Odblokuj drzwi do głównego laboratorium
+Objective.labs.sneak_into_mainlabs_title,Zakradnij się do głównego laboratorium
+Objective.labs.capture_headscientist_title,Pojmij dr. Eierkopfa
+Objective.labs.throw_headscientist_into_bag_and_pick_it_up_title,"Wrzuć dr. Eierkopfa do torebki, by go zabrać"
+Objective.labs.sabotage_assemblyline_title,Uszkodź linię produkcyjną pocisku pocztowego
+Objective.labs.exit_labs_title,Opuść laboratorium 
+Objective.archives.get_evidence_title,Ukradnij dowody
+Objective.archives.get_key_title,Znajdź klucz do zamkniętego pokoju
+Objective.archives.get_targetingchip_title,Zdobądź czip do namierzania
+Objective.archives.stop_missileline_cuba_title,Wyślij paczkę na Kubę
+Objective.archives.stop_missileline_london_title,Wyślij paczkę do Londynu
+Objective.archives.stop_missileline_washington_title,Wyślij paczkę do Waszyngtonu
+Objective.archives.remove_parcel_title,Usuń paczkę z pocisku pocztowego
+Objective.archives.send_headscientist_title,Podłuż Eierkopf w pocisku pocztowym
+Objective.archives.eierkopf_cuba_title,Podłuż Eierkopf w pocisku pocztowym
+Objective.archives.eierkopf_london_title,Podłuż Eierkopf w pocisku pocztowym
+Objective.archives.eierkopf_DC_title,Podłuż Eierkopf w pocisku pocztowym
+Objective.archives.send_evidence_title,Podłuż dowody w pocisku pocztowym
+Objective.archives.burn_books_title,Spal autobiografię Bolscotchkovicha
+Objective.archives.shred_notes_title,Podrzyj notatki biograficzne
+Objective.archives.enter_bossroom_title,Opuść archiwa
+Objective.archivesboss.release_elevator_lockdown_title,Zwolnij blokadę windy
+Objective.archivesboss.find_something_to_sabotage_first_computer_title,"Znajdź coś, czym można uszkodzić pierwszy komputer"
+Objective.archivesboss.sabotage_computer_one_title,Uszkodź pierwszy komputer
+Objective.archivesboss.find_something_to_sabotage_second_computer_title,"Znajdź coś, czym można uszkodzić drugi komputer"
+Objective.archivesboss.sabotage_computer_two_title,Uszkodź drugi komputer
+Objective.archivesboss.unplug_the_communibot_title,Odłącz COMMUNIBOTa
+Objective.archivesboss.get_to_the_elevator_title,Dostań się do windy
+Objective.labsredux.look_around_title,Rozejrzyj się po laboratorium
+Objective.labsredux.turn_on_the_power_for_manual_override_title,Włącz zasilanie by nadpisać zabezpieczenia
+Objective.labsredux.open_the_blast_door_title,Otwórz grodzie
+Objective.labsredux.escape_the_super_soldier_title,Ucieknij super-żołnierzowi
+Objective.labsredux.defeat_the_super_soldier_title,Pokonaj super-żołnierza
+Objective.labsredux.investigate_the_commotion_title,Zbadaj źródło zamieszania
+Objective.labsredux.get_to_the_elevator_title,Dostań się do windy
+Objective.residence.investigate_the_residence_title,Zbadaj posiadłość
+Objective.residence.torch_the_super_corn_title,Spal super kukurydzę
+Objective.residence.investigate_further_title,Szukaj dalej
+Objective.residence.check_the_table_title,Sprawdź stolik 
+Objective.residence.get_into_the_miniature_car_title,Zmniejsz się do rozmiarów miniaturowego samochodzika
+Objective.residence.escape_the_dining_room_title,Ucieknij z pokoju gościnnego
+Objective.residence.escape_the_residence_title,Ucieknij z posiadłości
+Objective.warehouse.slip_past_welcoming_party_title,Przekradnij się obok komitetu powitalnego
+Objective.warehouse.find_a_way_to_rocket_title,Znajdź przejście do rakiety
+Objective.warehouse.select_route_0_title,Znajdź przejście do rakiety (Droga A)
+Objective.warehouse.select_route_1_title,Znajdź przejście do rakiety (Droga B)
+Objective.warehouse.rocketcatch_title,Złap rakietę!
+Objective.rocket.switchpuzzle_title,Wdrap się na szczyt rakiety i odblokuj przejście na kolejne piętro 
+Objective.rocket.gradientpuzzle_title,Wyłącz kriogeniczne komory poprzez dopasowanie odpowiednich pól
+Objective.rocket.find_switches_title,Znajdź przełącznik włączający windę
+Objective.rocket.select_target_title,Znajdź sposób na rozbrojenie głowicy lub zmianę jej celu
 Objective.quaternion.talk_to_bartender_title,Porozmawiam z barmanem
 Objective.quaternion.get_to_east_side_title,Przedostań się na wschodnią stronę niezauważonym
 Objective.quaternion.find_hacker_title,Znajdź hakera
@@ -90,10 +90,10 @@ Objective.quaternion.put_hacker_in_pint_title,Podnieś hakera i wrzuć go do szk
 Objective.quaternion.take_pint_to_exchange_title,"Podnieś pintę, by wybić system wymiany"
 Objective.quaternion.get_back_to_west_side_title,Szybko przedostań się na zachodnią stronę
 Objective.quaternion.pick_up_pint_title,Podnieś pintę
-Objective.quaternion.deliver_pint_to_bartender_title,Deliver the pint to the bartender
-Objective.quaternion.search_for_intel_title,Search for intelligence in East Germany downstairs kitchen
-Objective.quaternion.find_your_way_through_ddr_tunnels_title,Find your way through DDR tunnels
-Objective.quaternion.find_a_way_to_open_the_door_title,Find a way to open the door
+Objective.quaternion.deliver_pint_to_bartender_title,Dostarcz pintę barmanowi
+Objective.quaternion.search_for_intel_title,Poszukaj informacji w kuchni w piwnicy we Wschodnich Niemczech
+Objective.quaternion.find_your_way_through_ddr_tunnels_title,Znajdź drogę przez tunele DDR
+Objective.quaternion.find_a_way_to_open_the_door_title,Znajdź sposób na otwarcie drzwi
 Objective.quaternion.escape_east_germany_title,Ucieknij ze Wschodnich Niemiec
 Objective.quaternion.bring_intel_to_bartender_title,Dostarcz informacje barmanowi
 Objective.train.retrievegear_report_title,Arsenał Agenta
@@ -104,7 +104,7 @@ Objective.office.hack_server_report_title,Odłączony
 Objective.office.hack_server_report_description,Audrey wyczyściła serwery Con-Nex.
 Objective.office.enter_vault_report_title,Sekrety Con-Nex
 Objective.office.enter_vault_report_description,Audrey odblokowała i weszła do skarbca..
-Objective.operation.descend_to_bottom_report_title,Red Means Dead
+Objective.operation.descend_to_bottom_report_title,Dobry Czerwony to Martwy Czerwony
 Objective.operation.descend_to_bottom_report_description,Audrey przedostała się żywcem przez lasery.
 Objective.labs.throw_headscientist_into_bag_and_pick_it_up_report_title,Geniusz złodziejstwa
 Objective.labs.throw_headscientist_into_bag_and_pick_it_up_report_description,Audrey porwała doktora Eierkopfa w jej torebce.
@@ -112,19 +112,19 @@ Objective.labs.eierkopf_hamsterwheel_report_title,Szczur laboratoryjny
 Objective.labs.eierkopf_hamsterwheel_report_description,Audrey pozostawiła doktora Eierkopfa w kółku dla chomika.
 Objective.labs.eierkopf_dead_report_title,Śmierć doktora
 Objective.labs.eierkopf_dead_report_description,Audrey zabiła doktora Eierkopfa.
-Objective.labs.sabotage_assemblyline_report_title,Some Assembly Required
-Objective.labs.sabotage_assemblyline_report_description,Audrey broke the rocket part assembly line.
+Objective.labs.sabotage_assemblyline_report_title,Wymaga ręcznego złożenia
+Objective.labs.sabotage_assemblyline_report_description,Audrey rozłożyła rakietę na produkcyjnym taśmociągu.
 Objective.archives.burn_books_report_title,Gotowanie książek
 Objective.archives.burn_books_report_description,Audrey spaliła autobiografię Bolscotchkovicha.
 Objective.archives.shred_notes_report_title,Pierwszy i ostatni szkic
-Objective.archives.shred_notes_report_description,Audrey podarła notki z autobiografi Bolscotchkovicha.
+Objective.archives.shred_notes_report_description,Audrey podarła notki z autobiografii Bolscotchkovicha.
 Objective.archives.send_headscientist_report_title,Paczka dostarczona
 Objective.archives.send_headscientist_report_description,Audrey wysłała doktora Eierkopfa na przesłuchanie.
 Objective.archives.send_evidence_report_title,Paczka dostarczona
 Objective.archives.send_evidence_report_description,Audrey wysłała torbę dowodów do zbadania.
 Objective.archives.eierkopf_cuba_report_title,Cuba Cabana
 Objective.archives.eierkopf_cuba_report_description,Audrey wysłała doktora Eierkopf do Kuby - z powrotem do Sowietów. Ups.
-Objective.archives.eierkopf_DC_report_title,The Higher-ups
+Objective.archives.eierkopf_DC_report_title,Do osób na szczycie
 Objective.archives.eierkopf_DC_report_description,Audrey wysłała doktora Eierkopfa do Waszyngtonu.
 Objective.archives.eierkopf_london_report_title,London wzywa
 Objective.archives.eierkopf_london_report_description,Audrey wysłała doktora Eierkopfa do Londynu.
@@ -134,12 +134,12 @@ Objective.archivesboss.unplug_the_communibot_report_title,Obowiązkowa walka z b
 Objective.archivesboss.unplug_the_communibot_report_description,Audrey odłączyła COMMUNIBOT 3000.
 Objective.labs2.testodead_report_title,Bananarama
 Objective.labs2.testodead_report_description,Audrey zabiła sowieckiego super-żołnierza.
-Objective.labsredux.escape_the_super_soldier_report_title,Never Skip Leg Day
-Objective.labsredux.escape_the_super_soldier_report_description,Audrey avoided the Soviet Supersoldier.
-Objective.labsredux.get_to_the_elevator_report_title,A Sequel Hook
+Objective.labsredux.escape_the_super_soldier_report_title,Nigdy nie pomijaj dnia nogi
+Objective.labsredux.escape_the_super_soldier_report_description,Audrey uniknęła Sowieckiego Super-żołnierza..
+Objective.labsredux.get_to_the_elevator_report_title,""Sequel Hook""
 Objective.labsredux.get_to_the_elevator_report_description,Zobaczyłaś armię Generała.
 Objective.residence.torch_the_super_corn_report_title,Blaze it!
-Objective.residence.torch_the_super_corn_report_description,Audrey made some popcorn.
+Objective.residence.torch_the_super_corn_report_description,Audrey przygotowała popcorn.
 Objective.residence.escape_the_residence_report_title,Mad Marx
 Objective.residence.escape_the_residence_report_description,Audrey ukradła Slavdę.
 Objective.warehouse.rocketcatch_report_title,Starchaser

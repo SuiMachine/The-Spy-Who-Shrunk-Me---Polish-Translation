@@ -58,8 +58,8 @@ Dialogue.audrey_055_OhCrapSetOff,O cholera. Włączyłam alarm.
 Dialogue.audrey_056_CurseYouHack,"A niech Cię, rewolucjo hakowania haków."
 Dialogue.audrey_057_NowThisOldSchool,To Ci dopiero ""old school"".
 Dialogue.audrey_058_ImInTheVault,Jestem w skarbcu.
-Dialogue.audrey_059_WowItsDark,"Wow, ciemno tu."
-Dialogue.audrey_060_AndItGoesDeep,Głęboko schodzi...
+Dialogue.audrey_059_WowItsDark,"Wow, ale tu ciemno."
+Dialogue.audrey_060_AndItGoesDeep,I głęboko...
 Dialogue.audrey_061_OhShutUp,"Oj, zamknij się."
 Dialogue.audrey_062_UhOhCantBeGood,"Oh, oh. To nie może oznaczać nic dobrego."
 Dialogue.audrey_063_GreatLasers,Wspaniale. Lasery. Dokładnie tego potrzebowałam.
@@ -82,7 +82,7 @@ Dialogue.audrey_079_Washington,"Waszyngton. Może to dobry pomysł, by panowie z
 Dialogue.audrey_080_OopsDontShoot,Oops. Nie zabijaj posłańca. 
 Dialogue.audrey_081_Splendid,Doskonale.
 Dialogue.audrey_082_AnotherJob,Kolejna dobrze wykonana robota.
-Dialogue.audrey_083_HotOffPresses,Świeżo z druku.
+Dialogue.audrey_083_HotOffPresses,Gorący nowy hit.
 Dialogue.audrey_084_WhatTheBloodyNoise,Co do do cholery był za hałas?
 Dialogue.audrey_085_ButItOpenedOffIGo,Ale otworzył coś jeszcze. Czas spadać.
 Dialogue.audrey_086_OhGreatBossFight,O świetnie! Walka z bossem.
@@ -95,9 +95,9 @@ Dialogue.audrey_092_ThatCantBeGood,To nie brzmi dobrze...
 Dialogue.audrey_093_EasyThereEasy,"Spokojnie, spokojnie!"
 Dialogue.audrey_094_TheresRampagingGiant,Jest tu jakiś szalejący gigant.
 Dialogue.audrey_095_IThinkOneOfEier,"Myślę, że może to być jeden z eksperymentów Eierkopfa."
-Dialogue.audrey_096_WellHeApparentlySkipped,"Well, he apparently skipped leg day."
-Dialogue.audrey_097_ImSoGladYouPacked,"Teraz naprawdę się cieszę, że zapakowałeś banany zamiast broni palnej."
-Dialogue.audrey_098_SoDropHim,"Więc upuściłam go na tyłek kilka razy, korzystając ze skórek od banana."
+Dialogue.audrey_096_WellHeApparentlySkipped,"Cóż, najwyraźniej ominął go ""dzień nogi""."
+Dialogue.audrey_097_ImSoGladYouPacked,"Teraz naprawdę się cieszę, że zapakowałeś banany zamiast broni palnej..."
+Dialogue.audrey_098_SoDropHim,"bym mogła go przewrócić na tyłek kilka razy, korzystając ze skórek od banana."
 Dialogue.audrey_099_ManagedToSneak,Udało mi się przekraść obok giganta.
 Dialogue.audrey_100_GeneralBall,"Generał Bał-krowicz ma przemowę w gigantycznym magazynie, który właśnie odkryłam, że znajduje się na przeciwko laboratorium."
 Dialogue.audrey_101_NotWithoutBeing,Nie bez bycia zauważonym.
@@ -108,7 +108,7 @@ Dialogue.audrey_105_MakesSense,Ma to sens.
 Dialogue.audrey_106_INeedToLookAround,"Muszę się rozejrzeć w poszukiwaniu czegoś, co wskazywałoby co takiego planują."
 Dialogue.audrey_107_IFoundAGreenhouse,Znalazłam szklarnie.
 Dialogue.audrey_108_IThinkItsTheOne,"Myślę, że może być to jedna z tych, które użyto, by stworzyć surowicę dla super-żołnierzy."
-Dialogue.audrey_109_BlazeIt,Blaze it.
+Dialogue.audrey_109_BlazeIt,Jaraj się.
 Dialogue.audrey_110_GetThisGeneral,"Słuchaj tego. Generał Bibinovich ma tu rakietę nuklearną."
 Dialogue.audrey_111_UnderThatWarehouse,"Pod magazynem, obok którego przeszłam!"
 Dialogue.audrey_112_PrettySimpleJustBackUp,"Łatwizna. Tylko wezwać windę, i..."
@@ -161,7 +161,7 @@ Dialogue.audrey_158_IWontGrace,"Nie dam Ci przyjemności słuchania przemowy, ja
 Dialogue.audrey_160_WelpTooLate,"Cóż...  jest za późno, by zawrócić."
 Dialogue.audrey_161_WithMyLastBreath,"Moim ostatnim tchnieniem... przeklinam Cię, generale Belitsovich!"
 Dialogue.audrey_161_YesYesYes,"Tak, tak, tak... lałam sowietów przez całą grę."
-Dialogue.audrey_162_AndNowImSupposed,A teraz mam mięc wyrzuty sumienia.
+Dialogue.audrey_162_AndNowImSupposed,A teraz mam mieć wyrzuty sumienia.
 Dialogue.audrey_163_BecauseIThink,"Bo wydaje mi się, że wysadzenie Moskwy nie jest dobrym rozwiązaniem."
 Dialogue.audrey_164_ThenAgainWhatWould,"Przy czym, co niby takiego mogę wiedzieć. W końcu nie żyję."
 Dialogue.audrey_165_YoureGettingAMono,Słuchasz monologu zza grobu.
@@ -171,9 +171,9 @@ Dialogue.audrey_168_TrustMeWorldFavor,"Zaufaj mi. Zrobisz światu przysługę."
 Dialogue.audrey_169_OrGoFullBonkers,"Albo mógłbyś pójść na całość i naprawdę uratować świat rozbrajając rakietę, jak powiedział Ci Cecil."
 Dialogue.audrey_170_TooLateToChange,"Jest za późno, by zawrócić."
 Dialogue.audrey_171_AlthoughCantThink,"Ale nie mogę pomyśleć o lepszym miejscu, w które miałaby trafić rakieta."
-Dialogue.audrey_172_IWontPretend,"Nie będę udawać. nie miałam żadnego sposobu, by całe to miasto od-kocić."
+Dialogue.audrey_172_IWontPretend,"Nie będę udawać, jakby nie miała sposobu, by rozbroić to ustrojstwo."
 Dialogue.audrey_173_ButAtLeastWeHit,Ale przynajmniej trafiliśmy we właściwy cel..
-Dialogue.audrey_174_IMeanNobodyForssa,"To jest, nikomu nie będzie szkoda Forssy."
+Dialogue.audrey_174_IMeanNobodyForssa,"To znaczy - nikomu nie będzie szkoda Forssy."
 Dialogue.audrey_175_ThenAgainDoingMono,"Przy czym, znowu... prowadzenie jednego z monologów z poza grobu, może nie być dla mnie najlepszym zakończeniem."
 Dialogue.audrey_176_ThenAgainNoForssa,"Z drugiej strony... chciałabym żyć w świecie, w którym nie istnieje Forssa. Na litość boską."
 Dialogue.audrey_177_IRuinedTheSoviets,Pokrzyżowałam plan sowietów i wysadziłam najgorsze miasto na mapie.
@@ -214,7 +214,7 @@ Dialogue.audrey_211_IWillCounter,"A ja odpowiem w najlepszy szpieg zgadza się, 
 Dialogue.audrey_212_YouKnowWhatIMean,Wiesz o co mi chodzi.
 Dialogue.audrey_213_IThinkTheresLesson,Jest tu pewnie jakiś morał do nauki.
 Dialogue.audrey_214_TheLargerTheHarder,"Im więksi są, tym mocniej upadają."
-Dialogue.audrey_215_AndSizeMattersGuys,Że rozmiar się nie liczy. Niezależnie od tego co mówią ludzie.
+Dialogue.audrey_215_AndSizeMattersGuys,Rozmiar MA znaczenie. Niezależnie od tego co mówią mężczyźni.
 Dialogue.audrey_17_TheStopWatch_t3,Stoper powinien się przydać. Pozwala mi zatrzymać na chwilę czas. Postaraj się nie myśleć o tym zbyt intensywnie.
 Dialogue.QI2_audrey_06_WhiteRussian,Biały Rosjanin. Z cytryną i limonką. Cóż za okropne hasło rozpoznawcze.
 Dialogue.QI2_audrey_07_NotTheFirstTime,"To nie pierwszy raz, kiedy to prześlizgnęłam się za żelazną kurtynę."
